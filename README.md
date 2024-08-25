@@ -8,7 +8,7 @@ The project aims to analyze the sentiment of restaurant reviews and classify the
 + Saving the trained model for future use
 + Applying the trained model to predict the sentiment of new restaurant reviews
 
-## Technology Stack
+## Tech Stack
 + Jupyter Notebook
 + Python
 + Scikit-learn (for machine learning algorithms)
